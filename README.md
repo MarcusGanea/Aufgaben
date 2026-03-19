@@ -32,7 +32,7 @@ CSS
 ## Screenshots ausführung
 
 ### Design
-![image](https://github.com/user-attachments/assets/414c175b-e49f-45b9-a530-635ccb59a0c3)
+![image]([https://github.com/user-attachments/assets/414c175b-e49f-45b9-a530-635ccb59a0c3](https://github.com/MarcusGanea/Aufgaben/blob/main/Bild.png))
 
 
 
